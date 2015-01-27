@@ -1,0 +1,22 @@
+{
+  "name": "react-gulp-browserify",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "gulp": "~3.8.10",
+    "gulp-concat": "~2.4.3",
+    "gulp-uglify": "~1.1.0",
+    "gulp-react": "~2.0.0",
+    "gulp-html-replace": "~1.4.3",
+    "vinyl-source-stream": "~1.0.0",
+    "browserify": "~8.1.1",
+    "watchify": "~2.2.1",
+    "gulp-streamify": "0.0.5"
+  }
+}
